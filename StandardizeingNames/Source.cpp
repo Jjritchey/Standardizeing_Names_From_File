@@ -1,4 +1,4 @@
-//Justin Ritchey. Machine Problem 6. Strings and Enums. 7/8/2020
+//Justin Ritchey. Machine Problem 6. Strings and Enums. 7/8/2020    
 //Designing a program that will accept/read a file that has names in it. The progrom will rearrnage the names to be in a standerdized form.
 
 #include <fstream>
